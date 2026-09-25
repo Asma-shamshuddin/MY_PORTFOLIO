@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio
 
-Welcome to my personal portfolio website! This portfolio showcases my skills, projects, certifications, internship experience, and journey as a Computer Science Engineering student interested in software and full-stack development.
+Welcome to my personal portfolio website .This portfolio showcases my skills, projects, certifications, internship experience, and journey as a Computer Science Engineering student interested in software and full-stack development.
 
 ## 🚀 About the Project
 
@@ -100,8 +100,8 @@ Add screenshots of your portfolio here.
 
 If you would like to connect with me:
 
-* **GitHub:** https://github.com/your-username
-* **LinkedIn:** https://linkedin.com/in/your-profile
+* **GitHub:** https://github.com/Asma-shamshuddin/MY_PORTFOLIO
+* **LinkedIn:** www.linkedin.com/in/asma-begum-052a0a360
 
 ## 👩‍💻 Author
 
