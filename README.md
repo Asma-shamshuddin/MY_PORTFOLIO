@@ -96,7 +96,7 @@ The project will run locally using the URL provided by Vite.
 
 ## 🌐 Live Demo
 
-🔗 https://asma-protfolio.netlify.app
+🔗 https://asma-portfolio.netlify.app
 
 ## 📬 Contact
 
