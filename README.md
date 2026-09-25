@@ -90,11 +90,13 @@ The project will run locally using the URL provided by Vite.
 
 ## 📸 Screenshots
 
-Add screenshots of your portfolio here.
+<img width="1763" height="2426" alt="image" src="https://github.com/user-attachments/assets/d01add03-fa71-4e63-b272-a5c8f6f8be07" />
+<img width="1763" height="3258" alt="image" src="https://github.com/user-attachments/assets/031c7d1c-f3b6-44dc-a296-c870a2791473" />
+
 
 ## 🌐 Live Demo
 
-🔗 **Live Portfolio:** Add your deployed portfolio link here
+🔗 https://asma-protfolio.netlify.app
 
 ## 📬 Contact
 
