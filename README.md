@@ -90,7 +90,7 @@ The project will run locally using the URL provided by Vite.
 
 ## 📸 Screenshots
 
-<img width="176" height="242" alt="image" src="https://github.com/user-attachments/assets/d01add03-fa71-4e63-b272-a5c8f6f8be07" />
+<img width="176" height="325" alt="image" src="https://github.com/user-attachments/assets/d01add03-fa71-4e63-b272-a5c8f6f8be07" />
 <img width="176" height="325" alt="image" src="https://github.com/user-attachments/assets/031c7d1c-f3b6-44dc-a296-c870a2791473" />
 
 
